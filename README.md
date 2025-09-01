@@ -24,4 +24,4 @@ This project replicates the basic **look and feel of Amazon’s homepage**, incl
 ## 💻 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/amazon-ui-clone.git
+git clone https://github.com/sharmasunny16/Amozon-ui-clone.git
